@@ -1,5 +1,5 @@
 # Detailed-Exploratory-Data-Analysis
-In this Repo various techinques and methods used while performing EDA explained
+In this Repo various techinques and methods used while performing EDA are explained
 
 Exploratory Data Analysis
 
